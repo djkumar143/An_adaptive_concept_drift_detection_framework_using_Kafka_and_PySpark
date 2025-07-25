@@ -1,0 +1,18 @@
+# Core Dependencies
+pyspark==3.2.0
+kafka-python
+confluent-kafka
+py4j
+liac-arff
+
+# Data Processing
+numpy
+pandas
+scipy
+
+# Visualization
+ipywidgets
+matplotlib
+ipython
+notebook
+
