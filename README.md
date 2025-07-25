@@ -1,4 +1,4 @@
-# An adaptive real-time concept drift Detection in streaming data using Kafka and PySpark
+# An adaptive real-time concept drift Detection in streaming data using Kafka and PySpark 
 
 A real-time streaming framework for detecting concept drift in data streams using Apache Kafka and PySpark, with adaptive algorithms and an interactive dashboard.
 
